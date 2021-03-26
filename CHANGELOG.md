@@ -1,5 +1,8 @@
 # Changelog
 
+- Upgraded `gleam_http` to v2.0
+- Upgraded `gleam_stdlib` to v0.14
+
 ## v0.2.2 - 2020-11-19
 
 - Updated for Gleam OTP v0.1.3.
